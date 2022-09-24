@@ -130,6 +130,5 @@ dmypy.json
 
 sitter-libs/
 .idea/
-parser/
 data/
 models/
